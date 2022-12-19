@@ -1,3 +1,3 @@
 # Demo
 
-Some description of my testing
+Some description of my testing of GIT
